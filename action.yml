@@ -5,7 +5,7 @@ inputs:
   myInput:
     description: 'greeting to use'
     required: true
-    default: 'Testing! Testing!'
+    default: 'Testing! Testing! Testing!'
 outputs:
   myOutput:
     description: 'total memory'
